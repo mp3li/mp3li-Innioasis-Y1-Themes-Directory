@@ -138,15 +138,19 @@ All themes are currently v0.1
 ### Other Helpful Links:
 
 • How to download/add/use/remove themes from your Y1: 
+
   • https://www.patreon.com/posts/how-to-add-from-149113465?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
 
 • Open poll for free Patreon members for suggesting upcoming themes: 
+
   • https://www.patreon.com/posts/thank-you-to-i-147209921?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
 
 • How to open your Y1 and replace the microSD card:
+
   • https://www.patreon.com/posts/how-to-replace-146823247?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
 
 • Fix Your Innioasis Y1 Storage Error (No SD Card Replacement Required):
+
   • https://www.patreon.com/posts/fix-your-y1-no-146837753?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
 
 
