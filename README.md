@@ -1,3 +1,41 @@
+![Total Themes](https://img.shields.io/badge/Total%20Themes-14-8b5cf6?style=flat)
+![Latest Theme](https://img.shields.io/badge/Latest-myAggretsuko%20(Pink%20V.)-f5a6c9?style=flat)
+![Platform](https://img.shields.io/badge/Platform-Innioasis%20Y1-8b5cf6?style=flat)
+![License](https://img.shields.io/badge/License-mp3li%20Theme%20License-f5a6c9?style=flat)
+![Status](https://img.shields.io/badge/Status-Actively%20Updated-8b5cf6?style=flat)
+
+
+<details>
+  <summary><strong>Table of Contents</strong></summary>
+
+  <br>
+
+  - [Overview](#overview)
+  - [How to Use Themes for the Y1](#how-to-use-themes-for-the-y1)
+  - [Innioasis Y1 Themes by mp3li Directory](#innioasis-y1-themes-by-mp3li-directory)
+    - [Animal Crossing Themes](#animal-crossing-themes)
+    - [Twilight Saga Themes](#twilight-saga-themes)
+    - [Studio Ghibli Themes](#studio-ghibli-themes)
+    - [Sanrio Themes](#sanrio-themes)
+  - [Follow my Work](#follow-my-work)
+  - [Version Notes](#version-notes)
+  - [Other Helpful Links](#other-helpful-links)
+  - [Theme Images](#theme-images)
+  - [License & Usage](#license--usage)
+    - [Permissions](#permissions)
+    - [Distribution Restrictions](#distribution-restrictions)
+    - [Intellectual Property Notice](#intellectual-property-notice)
+    - [No Warranty](#no-warranty)
+    - [Contact](#contact)
+
+</details>
+
+
+
+
+
+
+
 ## Official Directory of Y1 Themes Created by mp3li 
 
 
