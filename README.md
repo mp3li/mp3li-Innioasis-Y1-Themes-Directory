@@ -5,12 +5,26 @@
 
 This repository tracks the development and version history of all mp3li Innioasis Y1 themes.
 
-This repo is documentation-only. The full theme files, previews, and downloads are distributed through my official channels listed below.
+This repo is documentation-only. 
+
+The full theme files, previews, and downloads are distributed through official channels listed below.
+
+Absolutely zero paywall to access all themes.
 
 This directory will consistently be updated to add newly released themes.
 
-Each folder in this repo represents a published theme and contains at least one preview image of the theme on the Y1 device, a license file, and the theme cover image.
+Each folder in this repo represents a published theme and contains at least one preview image of the theme on the Y1 device, a license file, and the theme cover image. 
+
+To download themes, scroll below to the directory section. 
+
+Preview photos of each theme are below, and inside each theme folder in this repo.
  
+
+---
+
+### How to Use Themes for the Y1
+
+For a full detailed guide on how to download, install, use themes, and delete themes, check out my guide: https://www.patreon.com/posts/how-to-add-from-149113465?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
 
 ---
 
@@ -79,6 +93,57 @@ This is where I post:
 ### Version Notes:
 
 All themes are currently v0.1
+
+
+---
+
+### Other Helpful Links:
+
+• How to download/add/use/remove themes from your Y1: 
+  • https://www.patreon.com/posts/how-to-add-from-149113465?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
+
+• Open poll for free Patreon members for suggesting upcoming themes: 
+  • https://www.patreon.com/posts/thank-you-to-i-147209921?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
+
+• How to open your Y1 and replace the microSD card:
+  • https://www.patreon.com/posts/how-to-replace-146823247?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
+
+• Fix Your Innioasis Y1 Storage Error (No SD Card Replacement Required):
+  • https://www.patreon.com/posts/fix-your-y1-no-146837753?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
+
+
+---
+
+### Theme Images:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/22cecf67-fbc9-4c75-b4f6-0b28380b3db3" width="250" style="margin-right:12px;" alt="Pompompurin Y1 Theme Preview">
+  <img src="https://github.com/user-attachments/assets/e629db1b-588e-448e-a95c-59e6e0232724" width="250" style="margin-right:12px;" alt="myTwilightSaga Y1 Theme Preview">
+  <img src="https://github.com/user-attachments/assets/48b15a43-01df-40cd-b017-13230f6c676b" width="250" alt="myStudioGhibli Kikis Delivery Service Theme Preview">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3e91ca82-86cc-4df6-9ba4-1566f0a9d8c9" width="250" style="margin-right:12px;" alt="myStudioGhibli Howls Moving Castle Theme Preview">
+  <img src="https://github.com/user-attachments/assets/851d3758-9095-4497-8732-dcf84254a05b" width="250" style="margin-right:12px;" alt="myHelloKittyandFriends Landscape Theme Preview">
+  <img src="https://github.com/user-attachments/assets/165cf546-91f0-45e4-a89c-d4b0f0efa012" width="250" alt="myGudetama Theme Preview">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5c2f0cc0-8615-48ee-a1d9-5eef14d168be" width="250" style="margin-right:12px;" alt="myKeroppi Theme Preview">
+  <img src="https://github.com/user-attachments/assets/125c8c43-3f93-422e-8ef6-92cfbe0bd443" width="250" style="margin-right:12px;" alt="myCinnamoroll Theme Preview">
+  <img src="https://github.com/user-attachments/assets/5ba5199d-8658-4f92-b737-86247369932e" width="250" alt="myStudioGhibli Princess Mononoke Theme Preview">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a934de77-3c33-4a05-8a92-7e14d65d2f2a" width="250" style="margin-right:12px;" alt="myStudioGhibli Spirited Away Theme Preview">
+  <img src="https://github.com/user-attachments/assets/b0163c64-afac-4fb6-beef-58e9fba4e7a0" width="250" style="margin-right:12px;" alt="myAggretsuko Pink Rage Theme Preview">
+  <img src="https://github.com/user-attachments/assets/258fee6d-86e2-48bc-a7cc-e4d0c2851fd1" width="250" alt="myAggretsuko Teal Rage Theme Preview">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8f6d834f-e977-452d-a825-1dfe26426480" width="250" style="margin-right:12px;" alt="myACNH Day Theme Preview">
+  <img src="https://github.com/user-attachments/assets/68d6203e-4128-4eef-ae17-2cc8d2f172fb" width="250" alt="myACNH Night Theme Preview">
+</p>
 
 
 ---
