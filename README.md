@@ -1,74 +1,89 @@
-Official Directory of Y1 Themes Created by mp3li 
+## Official Directory of Y1 Themes Created by mp3li 
 
----
 
-Overview:
+### Overview:
 
 This repository tracks the development and version history of all mp3li Innioasis Y1 themes.
 
 This repo is documentation-only. The full theme files, previews, and downloads are distributed through my official channels listed below.
 
 This directory will consistently be updated to add newly released themes.
+
+Each folder in this repo represents a published theme and contains at least one preview image of the theme on the Y1 device, a license file, and the theme cover image.
  
 
 ---
 
-Innioasis Y1 Themes by mp3li Directory: 
+### Innioasis Y1 Themes by mp3li Directory: 
 
-myACNH (Day V.) Theme: https://www.patreon.com/posts/147068292
 
-myACNH (Night V.) Theme: https://www.patreon.com/posts/147068292
+#### Animal Crossing Themes: 
+• myACNH (Day V.) Theme: https://www.patreon.com/posts/147068292
 
-myTwilightSaga Theme: https://www.patreon.com/posts/147707164
+• myACNH (Night V.) Theme: https://www.patreon.com/posts/147068292
 
-myCinnamoroll Theme: https://www.patreon.com/posts/149114823
+#### Twilight Saga Themes:
 
-myKeroppi Theme: https://www.patreon.com/posts/149114945
+• myTwilightSaga Theme: https://www.patreon.com/posts/147707164
 
-myGudetama Theme: https://www.patreon.com/posts/149115443
+#### Studio Ghibli Themes:
 
-myPompompurin Theme: https://www.patreon.com/posts/149111215
+• myStudioGhibli (Princess Mononoke BG V.) Theme: https://www.patreon.com/posts/149111215
 
-myHelloKittyandFriends (Landscape V.) Theme: https://www.patreon.com/posts/149115025
+• myStudioGhibli (Howl's Moving Castle BG V.) Theme: https://www.patreon.com/posts/148666778
 
-myStudioGhibli (Princess Mononoke BG V.) Theme: https://www.patreon.com/posts/149111215
+• myStudioGhibli (Spirited Away BG V.) Theme: https://www.patreon.com/posts/148664830
 
-myStudioGhibli (Howl's Moving Castle BG V.) Theme: https://www.patreon.com/posts/148666778
+• myStudioGhibli (Kiki's Delivery Service BG V.) Theme: https://www.patreon.com/posts/148666123
 
-myStudioGhibli (Spirited Away BG V.) Theme: https://www.patreon.com/posts/148664830
+#### Sanrio Themes:
 
-myStudioGhibli (Kiki's Delivery Service BG V.) Theme: https://www.patreon.com/posts/148666123
+• myAggretsuko (Pink Rage V.) Theme: https://www.patreon.com/posts/149397538
 
-myAggretsuko (Pink Rage V.) Theme: https://www.patreon.com/posts/149397538
+• myAggretsuko (Teal Rage V.) Theme: https://www.patreon.com/posts/149399904
 
-myAggretsuko (Teal Rage V.) Theme: https://www.patreon.com/posts/149399904
+• myCinnamoroll Theme: https://www.patreon.com/posts/149114823
+
+• myKeroppi Theme: https://www.patreon.com/posts/149114945
+
+• myGudetama Theme: https://www.patreon.com/posts/149115443
+
+• myPompompurin Theme: https://www.patreon.com/posts/149111215
+
+• myHelloKittyandFriends (Landscape V.) Theme: https://www.patreon.com/posts/149115025
+
+... and many more coming soon! 
+
+To make theme suggestions, either reach out on Patreon or Tiktok!
+
 
 ---
 
-Follow my Work:
+### Follow my Work:
 
-Patreon (Free Membership):
+#### Tiktok: https://www.tiktok.com/@mp3li.videos
+
+#### Patreon (Free Membership):
 Absolutely zero required paywall to access my work, join here: https://www.patreon.com/cw/mp3li
-
 
 This is where I post:
 
 * New theme releases
-* Updates
+* Updates and announcements 
 * Upcoming Y1 tools/apps
 * Early previews
 
 
 ---
 
-Version Notes:
+### Version Notes:
 
 All themes are currently v0.1
 
 
 ---
 
-LICENSE & USAGE
+### LICENSE & USAGE
 
 Below is a copy of the full license file included in this repo, and additionally included in every mp3li theme folder.
 
@@ -81,9 +96,7 @@ This license applies to all theme packages created and distributed by mp3li for 
 
 Copyright (c) 2026 mp3li
 
-────────────────────────────────────────
-PERMISSIONS
-────────────────────────────────────────
+#### PERMISSIONS
 
 Personal Use
 You are permitted to download, install, and use this theme for personal, non-commercial use on compatible devices.
@@ -93,9 +106,7 @@ You may modify this theme or use it as a base for your own theme, provided that 
 The theme’s config file description field, and
 Any online page, post, or listing where the modified theme is shared, described, or made available for download, including social media and hosting platforms.
 
-────────────────────────────────────────
-DISTRIBUTION RESTRICTIONS
-────────────────────────────────────────
+#### DISTRIBUTION RESTRICTIONS
 
 Authorized Hosting
 This theme may only be hosted, distributed, or published by mp3li, and only on mp3li’s official platforms, including official mp3li GitHub repositories and official mp3li Patreon pages. As of this time, there is only one mp3li Patreon. 
@@ -103,9 +114,7 @@ This theme may only be hosted, distributed, or published by mp3li, and only on m
 Prohibited Redistribution
 This theme may not be re-hosted, mirrored, bundled, archived, packaged, sold, sub-licensed, or monetized by any third party.
 
-────────────────────────────────────────
-INTELLECTUAL PROPERTY NOTICE
-────────────────────────────────────────
+#### INTELLECTUAL PROPERTY NOTICE
 
 This theme is a creative work assembled and published by mp3li.
 
@@ -116,15 +125,13 @@ mp3li retains ownership of all original creative contributions embodied in this 
 Use, reuse, extraction, or incorporation of any backgrounds, icons, layout elements, configuration files, or other visual or structural components taken from this theme, in whole or in part, constitutes use of this theme package and is subject to the permissions, attribution requirements, and distribution restrictions of this license.
 
 
-────────────────────────────────────────
-NO WARRANTY
-────────────────────────────────────────
+---
+#### NO WARRANTY
 
 This theme is provided “AS IS”, without warranty of any kind, express or implied, including but not limited to merchantability, fitness for a particular purpose, and non-infringement. The creator shall not be liable for any claims, damages, or other liability arising from the use of this theme.
 
-────────────────────────────────────────
-CONTACT
-────────────────────────────────────────
+---
+#### CONTACT
 
 For permissions beyond the scope of this license, please contact mp3li through official platforms.
 
