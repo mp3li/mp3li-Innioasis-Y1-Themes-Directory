@@ -1,32 +1,30 @@
-This license applies to all theme packages created and distributed by mp3li for the Innioasis Y1 MP3 Player, unless otherwise stated.
+#### This license applies to all theme packages created and distributed by mp3li for the Innioasis Y1 MP3 Player, unless otherwise stated.
 
 Copyright (c) 2026 mp3li
 
-────────────────────────────────────────
-PERMISSIONS
-────────────────────────────────────────
+#### PERMISSIONS
 
 Personal Use
+
 You are permitted to download, install, and use this theme for personal, non-commercial use on compatible devices.
 
 Modification and Derivative Works
+
 You may modify this theme or use it as a base for your own theme, provided that credit to “mp3li” is clearly included in BOTH:
 The theme’s config file description field, and
 Any online page, post, or listing where the modified theme is shared, described, or made available for download, including social media and hosting platforms.
 
-────────────────────────────────────────
-DISTRIBUTION RESTRICTIONS
-────────────────────────────────────────
+#### DISTRIBUTION RESTRICTIONS
 
 Authorized Hosting
+
 This theme may only be hosted, distributed, or published by mp3li, and only on mp3li’s official platforms, including official mp3li GitHub repositories and official mp3li Patreon pages. As of this time, there is only one mp3li Patreon. 
 
 Prohibited Redistribution
+
 This theme may not be re-hosted, mirrored, bundled, archived, packaged, sold, sub-licensed, or monetized by any third party.
 
-────────────────────────────────────────
-INTELLECTUAL PROPERTY NOTICE
-────────────────────────────────────────
+#### INTELLECTUAL PROPERTY NOTICE
 
 This theme is a creative work assembled and published by mp3li.
 
@@ -38,14 +36,10 @@ Use, reuse, extraction, or incorporation of any backgrounds, icons, layout eleme
 
 Battery icons are the original custom work of mp3li. Mp3li retains full ownership of battery icons. (myTwilightSaga and ACNH do not have mp3li battery icons, and will be updated soon to contain mp3li battery icons.) 
 
-────────────────────────────────────────
-NO WARRANTY
-────────────────────────────────────────
+#### NO WARRANTY
 
 This theme is provided “AS IS”, without warranty of any kind, express or implied, including but not limited to merchantability, fitness for a particular purpose, and non-infringement. The creator shall not be liable for any claims, damages, or other liability arising from the use of this theme.
 
-────────────────────────────────────────
-CONTACT
-────────────────────────────────────────
+#### CONTACT
 
 For permissions beyond the scope of this license, please contact mp3li through official platforms.
