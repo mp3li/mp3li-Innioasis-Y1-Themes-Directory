@@ -62,7 +62,7 @@ Preview photos of each theme are below, and inside each theme folder in this rep
 
 ### How to Use Themes for the Y1
 
-For a full detailed guide on how to download, install, use themes, and delete themes, check out my guide: https://www.patreon.com/posts/how-to-add-from-149113465?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
+For a full detailed tutorial on how to download, install, use themes, and delete themes, check out my guide: https://www.patreon.com/posts/how-to-add-from-149113465?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
 
 ---
 
