@@ -1,5 +1,5 @@
-![Total Themes](https://img.shields.io/badge/Total%20Themes-14-8b5cf6?style=flat)
-![Latest Theme](https://img.shields.io/badge/Latest-myAggretsuko%20(Pink%20V.)-f5a6c9?style=flat)
+![Total Themes](https://img.shields.io/badge/Total%20Themes-20-8b5cf6?style=flat)
+![Latest Theme](https://img.shields.io/badge/Latest-myCake2-f5a6c9?style=flat)
 ![Platform](https://img.shields.io/badge/Platform-Innioasis%20Y1-8b5cf6?style=flat)
 ![License](https://img.shields.io/badge/License-mp3li%20Theme%20License-f5a6c9?style=flat)
 ![Status](https://img.shields.io/badge/Status-Actively%20Updated-8b5cf6?style=flat)
@@ -104,7 +104,21 @@ For a full detailed tutorial on how to download, install, use themes, and delete
 
 • myHelloKittyandFriends (Landscape V.) Theme: https://www.patreon.com/posts/149115025
 
-... and many more coming soon! 
+#### Tea, Toast, and Cake (Bridgerton Inspired) Themes:
+
+• myTea Theme: https://www.patreon.com/posts/150222469
+
+• myTea2 Theme: https://www.patreon.com/posts/150222810
+
+• myToast Theme: https://www.patreon.com/posts/150223039
+
+• myToast2 Theme: https://www.patreon.com/posts/150222998
+
+• myCake Theme: https://www.patreon.com/posts/150223039
+
+• myCake2 Theme: https://www.patreon.com/posts/150223148
+
+... and many more themes of all kinds coming soon! 
 
 To make theme suggestions, either reach out on Patreon or Tiktok!
 
@@ -184,8 +198,23 @@ All themes are currently v0.1
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8f6d834f-e977-452d-a825-1dfe26426480" width="250" style="margin-right:12px;" alt="myACNH Day Theme Preview">
-  <img src="https://github.com/user-attachments/assets/68d6203e-4128-4eef-ae17-2cc8d2f172fb" width="250" alt="myACNH Night Theme Preview">
+  <img src="https://github.com/user-attachments/assets/68d6203e-4128-4eef-ae17-2cc8d2f172fb" width="250" style="margin-right:12px;" alt="myACNH Night Theme Preview">
+  <img src="https://github.com/user-attachments/assets/8e3384d9-7a1d-4ad7-8f51-6b8802b671b0" width="250" alt="myCake Theme by mp3li Preview">
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/35ecce22-bc3a-4ea1-80c3-9f4d46b9ee53" width="250" style="margin-right:12px;" alt="myCake2 Theme by mp3li Preview">
+  <img src="https://github.com/user-attachments/assets/c75a1943-b60d-48ff-ad83-6a2614339772" width="250" style="margin-right:12px;" alt="myTea Theme by mp3li Preview">
+  <img src="https://github.com/user-attachments/assets/6e5a6927-1d03-4fb4-87ef-b7bffcea2b20" width="250" alt="myTea2 Theme by mp3li Preview">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b83ba48d-7876-4798-a8f5-7320c5acfc86" width="250" style="margin-right:12px;" alt="myToast Theme by mp3li Preview">
+  <img src="https://github.com/user-attachments/assets/ff282d4b-9a17-4f60-9e9b-eeacfc2cabba" width="250" alt="myToast2 Theme by mp3li Preview">
+</p>
+
+
+
 
 
 ---
