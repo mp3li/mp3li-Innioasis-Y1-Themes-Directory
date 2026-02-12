@@ -17,6 +17,7 @@
     - [Twilight Saga Themes](#twilight-saga-themes)
     - [Studio Ghibli Themes](#studio-ghibli-themes)
     - [Sanrio Themes](#sanrio-themes)
+    - [Tea, Toast, and Cake (Bridgerton Inspired) Themes](#tea-toast-and-cake-bridgerton-inspired-themes)
   - [Follow my Work](#follow-my-work)
   - [Version Notes](#version-notes)
   - [Other Helpful Links](#other-helpful-links)
