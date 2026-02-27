@@ -199,66 +199,66 @@ All themes are currently v0.1
 ### Theme Images:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/22cecf67-fbc9-4c75-b4f6-0b28380b3db3" width="250" style="margin-right:12px;" alt="Pompompurin Y1 Theme Preview">
-  <img src="https://github.com/user-attachments/assets/e629db1b-588e-448e-a95c-59e6e0232724" width="250" style="margin-right:12px;" alt="myTwilightSaga Y1 Theme Preview">
-  <img src="https://github.com/user-attachments/assets/48b15a43-01df-40cd-b017-13230f6c676b" width="250" alt="myStudioGhibli Kikis Delivery Service Theme Preview">
+  <img src="https://github.com/user-attachments/assets/8f6d834f-e977-452d-a825-1dfe26426480" width="250" style="margin-right:12px;" alt="myACNH Day Theme Preview">
+  <img src="https://github.com/user-attachments/assets/68d6203e-4128-4eef-ae17-2cc8d2f172fb" width="250" style="margin-right:12px;" alt="myACNH Night Theme Preview">
+  <img src="https://github.com/user-attachments/assets/e629db1b-588e-448e-a95c-59e6e0232724" width="250" alt="myTwilightSaga Y1 Theme Preview">
 </p>
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/5ba5199d-8658-4f92-b737-86247369932e" width="250" style="margin-right:12px;" alt="myStudioGhibli Princess Mononoke Theme Preview">
   <img src="https://github.com/user-attachments/assets/3e91ca82-86cc-4df6-9ba4-1566f0a9d8c9" width="250" style="margin-right:12px;" alt="myStudioGhibli Howls Moving Castle Theme Preview">
-  <img src="https://github.com/user-attachments/assets/851d3758-9095-4497-8732-dcf84254a05b" width="250" style="margin-right:12px;" alt="myHelloKittyandFriends Landscape Theme Preview">
-  <img src="https://github.com/user-attachments/assets/165cf546-91f0-45e4-a89c-d4b0f0efa012" width="250" alt="myGudetama Theme Preview">
+  <img src="https://github.com/user-attachments/assets/a934de77-3c33-4a05-8a92-7e14d65d2f2a" width="250" alt="myStudioGhibli Spirited Away Theme Preview">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5c2f0cc0-8615-48ee-a1d9-5eef14d168be" width="250" style="margin-right:12px;" alt="myKeroppi Theme Preview">
-  <img src="https://github.com/user-attachments/assets/125c8c43-3f93-422e-8ef6-92cfbe0bd443" width="250" style="margin-right:12px;" alt="myCinnamoroll Theme Preview">
-  <img src="https://github.com/user-attachments/assets/5ba5199d-8658-4f92-b737-86247369932e" width="250" alt="myStudioGhibli Princess Mononoke Theme Preview">
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a934de77-3c33-4a05-8a92-7e14d65d2f2a" width="250" style="margin-right:12px;" alt="myStudioGhibli Spirited Away Theme Preview">
+  <img src="https://github.com/user-attachments/assets/48b15a43-01df-40cd-b017-13230f6c676b" width="250" style="margin-right:12px;" alt="myStudioGhibli Kikis Delivery Service Theme Preview">
   <img src="https://github.com/user-attachments/assets/b0163c64-afac-4fb6-beef-58e9fba4e7a0" width="250" style="margin-right:12px;" alt="myAggretsuko Pink Rage Theme Preview">
   <img src="https://github.com/user-attachments/assets/258fee6d-86e2-48bc-a7cc-e4d0c2851fd1" width="250" alt="myAggretsuko Teal Rage Theme Preview">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8f6d834f-e977-452d-a825-1dfe26426480" width="250" style="margin-right:12px;" alt="myACNH Day Theme Preview">
-  <img src="https://github.com/user-attachments/assets/68d6203e-4128-4eef-ae17-2cc8d2f172fb" width="250" style="margin-right:12px;" alt="myACNH Night Theme Preview">
-  <img src="https://github.com/user-attachments/assets/8e3384d9-7a1d-4ad7-8f51-6b8802b671b0" width="250" alt="myCake Theme by mp3li Preview">
+  <img src="https://github.com/user-attachments/assets/125c8c43-3f93-422e-8ef6-92cfbe0bd443" width="250" style="margin-right:12px;" alt="myCinnamoroll Theme Preview">
+  <img src="https://github.com/user-attachments/assets/5c2f0cc0-8615-48ee-a1d9-5eef14d168be" width="250" style="margin-right:12px;" alt="myKeroppi Theme Preview">
+  <img src="https://github.com/user-attachments/assets/165cf546-91f0-45e4-a89c-d4b0f0efa012" width="250" alt="myGudetama Theme Preview">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/35ecce22-bc3a-4ea1-80c3-9f4d46b9ee53" width="250" style="margin-right:12px;" alt="myCake2 Theme by mp3li Preview">
-  <img src="https://github.com/user-attachments/assets/c75a1943-b60d-48ff-ad83-6a2614339772" width="250" style="margin-right:12px;" alt="myTea Theme by mp3li Preview">
-  <img src="https://github.com/user-attachments/assets/6e5a6927-1d03-4fb4-87ef-b7bffcea2b20" width="250" alt="myTea2 Theme by mp3li Preview">
+  <img src="https://github.com/user-attachments/assets/22cecf67-fbc9-4c75-b4f6-0b28380b3db3" width="250" style="margin-right:12px;" alt="myPompompurin Y1 Theme Preview">
+  <img src="https://github.com/user-attachments/assets/851d3758-9095-4497-8732-dcf84254a05b" width="250" style="margin-right:12px;" alt="myHelloKittyandFriends Landscape Theme Preview">
+  <img src="https://github.com/user-attachments/assets/c75a1943-b60d-48ff-ad83-6a2614339772" width="250" alt="myTea Theme by mp3li Preview">
 </p>
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/6e5a6927-1d03-4fb4-87ef-b7bffcea2b20" width="250" style="margin-right:12px;" alt="myTea2 Theme by mp3li Preview">
   <img src="https://github.com/user-attachments/assets/b83ba48d-7876-4798-a8f5-7320c5acfc86" width="250" style="margin-right:12px;" alt="myToast Theme by mp3li Preview">
   <img src="https://github.com/user-attachments/assets/ff282d4b-9a17-4f60-9e9b-eeacfc2cabba" width="250" alt="myToast2 Theme by mp3li Preview">
 </p>
 
 <p align="center">
-  <img src="myBarbie (Dolls V.) Theme by mp3li/barbiedollspreview.jpeg" width="250" style="margin-right:12px;" alt="myBarbie Dolls Theme Preview">
+  <img src="https://github.com/user-attachments/assets/8e3384d9-7a1d-4ad7-8f51-6b8802b671b0" width="250" style="margin-right:12px;" alt="myCake Theme by mp3li Preview">
+  <img src="https://github.com/user-attachments/assets/35ecce22-bc3a-4ea1-80c3-9f4d46b9ee53" width="250" style="margin-right:12px;" alt="myCake2 Theme by mp3li Preview">
+  <img src="myBarbie (Dolls V.) Theme by mp3li/barbiedollspreview.jpeg" width="250" alt="myBarbie Dolls Theme Preview">
+</p>
+
+<p align="center">
   <img src="myBarbie (Movie V.) Theme by mp3li/barbiemoviespreview.jpeg" width="250" style="margin-right:12px;" alt="myBarbie Movie Theme Preview">
-  <img src="myBratz (Dolls V.) Theme by mp3li/bratzdollspreview.jpeg" width="250" alt="myBratz Dolls Theme Preview">
+  <img src="myBratz (Dolls V.) Theme by mp3li/bratzdollspreview.jpeg" width="250" style="margin-right:12px;" alt="myBratz Dolls Theme Preview">
+  <img src="myBratz (Movies V.) Theme by mp3li/bratzmoviespreview.jpeg" width="250" alt="myBratz Movies Theme Preview">
 </p>
 
 <p align="center">
-  <img src="myBratz (Movies V.) Theme by mp3li/bratzmoviespreview.jpeg" width="250" style="margin-right:12px;" alt="myBratz Movies Theme Preview">
   <img src="myTinkerbell Theme by mp3li/tinkerbellpreview.jpeg" width="250" style="margin-right:12px;" alt="myTinkerbell Theme Preview">
-  <img src="myCareBears Theme by mp3li/carebearspreview.jpeg" width="250" alt="myCareBears Theme Preview">
+  <img src="myCareBears Theme by mp3li/carebearspreview.jpeg" width="250" style="margin-right:12px;" alt="myCareBears Theme Preview">
+  <img src="myLisaFrank Theme by mp3li/lisafrankpreview.jpeg" width="250" alt="myLisaFrank Theme Preview">
 </p>
 
 <p align="center">
-  <img src="myLisaFrank Theme by mp3li/lisafrankpreview.jpeg" width="250" style="margin-right:12px;" alt="myLisaFrank Theme Preview">
   <img src="myPollyPocket Theme by mp3li/pollypocketpreview.jpeg" width="250" style="margin-right:12px;" alt="myPollyPocket Theme Preview">
-  <img src="myHannahMontana Theme by mp3li/hannahmontanapreview.jpeg" width="250" alt="myHannahMontana Theme Preview">
+  <img src="myHannahMontana Theme by mp3li/hannahmontanapreview.jpeg" width="250" style="margin-right:12px;" alt="myHannahMontana Theme Preview">
+  <img src="myTamagotchi (Game Boy V.) Theme by mp3li/tamagameboypreview.jpeg" width="250" alt="myTamagotchi Game Boy Theme Preview">
 </p>
 
 <p align="center">
-  <img src="myTamagotchi (Game Boy V.) Theme by mp3li/tamagameboypreview.jpeg" width="250" style="margin-right:12px;" alt="myTamagotchi Game Boy Theme Preview">
   <img src="myTamagotchi (Handheld V.) Theme by mp3li/tamahandheldpreview.jpeg" width="250" alt="myTamagotchi Handheld Theme Preview">
 </p>
 
