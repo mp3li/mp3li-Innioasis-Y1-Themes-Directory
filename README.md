@@ -1,5 +1,5 @@
-![Total Themes](https://img.shields.io/badge/Total%20Themes-20-8b5cf6?style=flat)
-![Latest Theme](https://img.shields.io/badge/Latest-myCake2-f5a6c9?style=flat)
+![Total Themes](https://img.shields.io/badge/Total%20Themes-31-8b5cf6?style=flat)
+![Latest Theme](https://img.shields.io/badge/Latest-myTinkerbell-f5a6c9?style=flat)
 ![Platform](https://img.shields.io/badge/Platform-Innioasis%20Y1-8b5cf6?style=flat)
 ![License](https://img.shields.io/badge/License-mp3li%20Theme%20License-f5a6c9?style=flat)
 ![Status](https://img.shields.io/badge/Status-Actively%20Updated-8b5cf6?style=flat)
@@ -18,6 +18,7 @@
     - [Studio Ghibli Themes](#studio-ghibli-themes)
     - [Sanrio Themes](#sanrio-themes)
     - [Tea, Toast, and Cake (Bridgerton Inspired) Themes](#tea-toast-and-cake-bridgerton-inspired-themes)
+    - [Y2K Toybox Collection Themes](#y2k-toybox-collection-themes)
   - [Follow my Work](#follow-my-work)
   - [Version Notes](#version-notes)
   - [Other Helpful Links](#other-helpful-links)
@@ -119,6 +120,30 @@ For a full detailed tutorial on how to download, install, use themes, and delete
 
 • myCake2 Theme: https://www.patreon.com/posts/150223148
 
+#### Y2K Toybox Collection Themes:
+
+• myBarbie (Dolls V.) Theme: https://www.patreon.com/posts/151198334?collection=1908526
+
+• myBarbie (Movies V.) Theme: https://www.patreon.com/posts/151142426?collection=1908526
+
+• myBratz (Dolls V.) Theme: https://www.patreon.com/posts/151198479?collection=1908526
+
+• myBratz (Movies V.) Theme: https://www.patreon.com/posts/151198807?collection=1908526
+
+• myTinkerbell Theme: https://www.patreon.com/posts/151199937?collection=1908526
+
+• myCareBears Theme: https://www.patreon.com/posts/151199605?collection=1908526
+
+• myLisaFrank Theme: https://www.patreon.com/posts/151199434?collection=1908526
+
+• myPollyPocket Theme: https://www.patreon.com/posts/151199733?collection=1908526
+
+• myHannahMontana Theme: https://www.patreon.com/posts/151199235?collection=1908526
+
+• myTamagotchi (Game Boy V.) Theme: https://www.patreon.com/posts/151200018?collection=1908526
+
+• myTamagotchi (Handheld V.) Theme: https://www.patreon.com/posts/151200112?collection=1908526
+
 ... and many more themes of all kinds coming soon! 
 
 To make theme suggestions, either reach out on Patreon or Tiktok!
@@ -214,8 +239,28 @@ All themes are currently v0.1
   <img src="https://github.com/user-attachments/assets/ff282d4b-9a17-4f60-9e9b-eeacfc2cabba" width="250" alt="myToast2 Theme by mp3li Preview">
 </p>
 
+<p align="center">
+  <img src="myBarbie (Dolls V.) Theme by mp3li/barbiedollspreview.jpeg" width="250" style="margin-right:12px;" alt="myBarbie Dolls Theme Preview">
+  <img src="myBarbie (Movie V.) Theme by mp3li/barbiemoviespreview.jpeg" width="250" style="margin-right:12px;" alt="myBarbie Movie Theme Preview">
+  <img src="myBratz (Dolls V.) Theme by mp3li/bratzdollspreview.jpeg" width="250" alt="myBratz Dolls Theme Preview">
+</p>
 
+<p align="center">
+  <img src="myBratz (Movies V.) Theme by mp3li/bratzmoviespreview.jpeg" width="250" style="margin-right:12px;" alt="myBratz Movies Theme Preview">
+  <img src="myTinkerbell Theme by mp3li/tinkerbellpreview.jpeg" width="250" style="margin-right:12px;" alt="myTinkerbell Theme Preview">
+  <img src="myCareBears Theme by mp3li/carebearspreview.jpeg" width="250" alt="myCareBears Theme Preview">
+</p>
 
+<p align="center">
+  <img src="myLisaFrank Theme by mp3li/lisafrankpreview.jpeg" width="250" style="margin-right:12px;" alt="myLisaFrank Theme Preview">
+  <img src="myPollyPocket Theme by mp3li/pollypocketpreview.jpeg" width="250" style="margin-right:12px;" alt="myPollyPocket Theme Preview">
+  <img src="myHannahMontana Theme by mp3li/hannahmontanapreview.jpeg" width="250" alt="myHannahMontana Theme Preview">
+</p>
+
+<p align="center">
+  <img src="myTamagotchi (Game Boy V.) Theme by mp3li/tamagameboypreview.jpeg" width="250" style="margin-right:12px;" alt="myTamagotchi Game Boy Theme Preview">
+  <img src="myTamagotchi (Handheld V.) Theme by mp3li/tamahandheldpreview.jpeg" width="250" alt="myTamagotchi Handheld Theme Preview">
+</p>
 
 
 ---
