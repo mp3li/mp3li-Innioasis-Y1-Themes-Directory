@@ -1,5 +1,5 @@
-![Total Themes](https://img.shields.io/badge/Total%20Themes-31-8b5cf6?style=flat)
-![Latest Theme](https://img.shields.io/badge/Latest-myTinkerbell-f5a6c9?style=flat)
+![Total Themes](https://img.shields.io/badge/Total%20Themes-41-8b5cf6?style=flat)
+![Latest Theme](https://img.shields.io/badge/Latest%20Theme-Defend%20the%20Parks%20--%20National%20Parks%20Collection-f5a6c9?style=flat)
 ![Platform](https://img.shields.io/badge/Platform-Innioasis%20Y1-8b5cf6?style=flat)
 ![License](https://img.shields.io/badge/License-mp3li%20Theme%20License-f5a6c9?style=flat)
 ![Status](https://img.shields.io/badge/Status-Actively%20Updated-8b5cf6?style=flat)
@@ -19,6 +19,7 @@
     - [Sanrio Themes](#sanrio-themes)
     - [Tea, Toast, and Cake (Bridgerton Inspired) Themes](#tea-toast-and-cake-bridgerton-inspired-themes)
     - [Y2K Toybox Collection Themes](#y2k-toybox-collection-themes)
+    - [Defend the Parks - National Parks Collection Themes](#defend-the-parks---national-parks-collection-themes)
   - [Follow my Work](#follow-my-work)
   - [Version Notes](#version-notes)
   - [Other Helpful Links](#other-helpful-links)
@@ -144,6 +145,28 @@ For a full detailed tutorial on how to download, install, use themes, and delete
 
 • myTamagotchi (Handheld V.) Theme: https://www.patreon.com/posts/151200112?collection=1908526
 
+#### Defend the Parks - National Parks Collection Themes:
+
+• myDeathValley National Park Theme: https://www.patreon.com/posts/153069180?collection=1908526
+
+• myEverglades National Park Theme: https://www.patreon.com/posts/153069254?collection=1908526
+
+• myGlacier National Park Theme: https://www.patreon.com/posts/153069295?collection=1908526
+
+• myGrandCanyon National Park Theme: https://www.patreon.com/posts/153069365?collection=1908526
+
+• myJoshuaTree National Park Theme: https://www.patreon.com/posts/153069411?collection=1908526
+
+• myMountRainier National Park Theme: https://www.patreon.com/posts/153069014?collection=1908526
+
+• myOlympic National Park Theme: https://www.patreon.com/posts/153065684?collection=1908526
+
+• myRockyMountains National Park Theme: https://www.patreon.com/posts/153069453?collection=1908526
+
+• myYellowstone National Park Theme: https://www.patreon.com/posts/153074072?collection=1908526
+
+• myYosemite National Park Theme: https://www.patreon.com/posts/153074121?collection=1908526
+
 ... and many more themes of all kinds coming soon! 
 
 To make theme suggestions, either reach out on Patreon or Tiktok!
@@ -156,13 +179,13 @@ To make theme suggestions, either reach out on Patreon or Tiktok!
 #### Tiktok: https://www.tiktok.com/@mp3li.videos
 
 #### Patreon (Free Membership):
-Absolutely zero required paywall to access my work, join here: https://www.patreon.com/cw/mp3li
+Absolutely zero required paywall to access my themes, join here: https://www.patreon.com/cw/mp3li
 
 This is where I post:
 
 * New theme releases
 * Updates and announcements 
-* Upcoming Y1 tools/apps
+* Y1 tools/apps
 * Early previews
 
 
@@ -181,10 +204,6 @@ All themes are currently v0.1
 
   • https://www.patreon.com/posts/how-to-add-from-149113465?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
 
-• Open poll for free Patreon members for suggesting upcoming themes: 
-
-  • https://www.patreon.com/posts/thank-you-to-i-147209921?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
-
 • How to open your Y1 and replace the microSD card:
 
   • https://www.patreon.com/posts/how-to-replace-146823247?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
@@ -193,6 +212,11 @@ All themes are currently v0.1
 
   • https://www.patreon.com/posts/fix-your-y1-no-146837753?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link
 
+• How to Make Your Own Themes - Complete Beginner's Documentation, Guide, and Tutorial, including a Ready-to-Go Theme Template:
+
+  • Github version is a bit easier to read because it has collapsible sections: https://github.com/mp3li/Y1-Theme-Documentation-and-Tutorial-with-Template
+
+  • Patreon link is public and includes identical information: https://www.patreon.com/posts/y1-theme-and-for-149632086
 
 ---
 
@@ -259,7 +283,27 @@ All themes are currently v0.1
 </p>
 
 <p align="center">
-  <img src="myTamagotchi (Handheld V.) Theme by mp3li/tamahandheldpreview.jpeg" width="250" alt="myTamagotchi Handheld Theme Preview">
+  <img src="myTamagotchi (Handheld V.) Theme by mp3li/tamahandheldpreview.jpeg" width="250" style="margin-right:12px;" alt="myTamagotchi Handheld Theme Preview">
+  <img src="Defend The Parks National Parks Collection Y1 Themes Preview by mp3li.jpeg" width="250" style="margin-right:12px;" alt="Defend The Parks National Parks Collection Y1 Themes Preview by mp3li">
+  <img src="myDeathValley National Park Theme by mp3li/myDeathValley National Park Theme by mp3li Preview.jpeg" width="250" alt="myDeathValley National Park Theme Preview">
+</p>
+
+<p align="center">
+  <img src="myEverglades National Park Theme by mp3li/myEverglades National Park Theme by mp3li Preview.jpeg" width="250" style="margin-right:12px;" alt="myEverglades National Park Theme Preview">
+  <img src="myGlacier National Park Theme by mp3li/myGlacier National Park Theme by mp3li Preview.jpeg" width="250" style="margin-right:12px;" alt="myGlacier National Park Theme Preview">
+  <img src="myGrandCanyon National Park Theme by mp3li/myGrandCanyon National Park Theme by mp3li Preview.jpeg" width="250" alt="myGrandCanyon National Park Theme Preview">
+</p>
+
+<p align="center">
+  <img src="myJoshuaTree National Park Theme by mp3li/myJoshuaTree National Park Theme by mp3li Preview.jpeg" width="250" style="margin-right:12px;" alt="myJoshuaTree National Park Theme Preview">
+  <img src="myMountRainier National Park Theme by mp3li/myMountRainier National Park Theme by mp3li Preview.jpeg" width="250" style="margin-right:12px;" alt="myMountRainier National Park Theme Preview">
+  <img src="myOlympic National Park Theme by mp3li/myOlympic National Park Theme by mp3li Preview.jpeg" width="250" alt="myOlympic National Park Theme Preview">
+</p>
+
+<p align="center">
+  <img src="myRockyMountains National Park Theme by mp3li/myRockyMountain National Park Theme by mp3li Preview.jpeg" width="250" style="margin-right:12px;" alt="myRockyMountains National Park Theme Preview">
+  <img src="myYellowstone National Park Theme by mp3li/myYellowstone National Park Theme by mp3li Preview.jpeg" width="250" style="margin-right:12px;" alt="myYellowstone National Park Theme Preview">
+  <img src="myYosemite National Park Theme by mp3li/myYosemite National Park Theme by mp3li Preview.jpeg" width="250" alt="myYosemite National Park Theme Preview">
 </p>
 
 
@@ -268,6 +312,8 @@ All themes are currently v0.1
 ### LICENSE & USAGE
 
 Below is a copy of the full license file included in this repo, and additionally included in every mp3li theme folder.
+
+The Defend the Parks - National Parks Collection themes use a separate license file. Those themes are based on mp3li's original creative work, including hand-drawn elements and other assets used under licenses that allow free personal and commercial use. Please refer to the license file included in each National Parks theme folder for the exact terms that apply to that collection.
 
 ---
 
@@ -285,8 +331,9 @@ You are permitted to download, install, and use this theme for personal, non-com
 
 Modification and Derivative Works
 You may modify this theme or use it as a base for your own theme, provided that credit to “mp3li” is clearly included in BOTH:
-The theme’s config file description field, and
-Any online page, post, or listing where the modified theme is shared, described, or made available for download, including social media and hosting platforms.
+
+- The theme’s config file description field
+- Any online page, post, or listing where the modified theme is shared, described, or made available for download, including social media and hosting platforms
 
 #### DISTRIBUTION RESTRICTIONS
 
