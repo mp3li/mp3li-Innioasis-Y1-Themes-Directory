@@ -1,5 +1,5 @@
-![Total Themes](https://img.shields.io/badge/Total%20Themes-41-8b5cf6?style=flat)
-![Latest Theme](https://img.shields.io/badge/Latest%20Theme-Defend%20the%20Parks%20--%20National%20Parks%20Collection-f5a6c9?style=flat)
+![Total Themes](https://img.shields.io/badge/Total%20Themes-49-8b5cf6?style=flat)
+![Latest Theme](https://img.shields.io/badge/Latest%20Theme-mySailorMoon3-f5a6c9?style=flat)
 ![Platform](https://img.shields.io/badge/Platform-Innioasis%20Y1-8b5cf6?style=flat)
 ![License](https://img.shields.io/badge/License-mp3li%20Theme%20License-f5a6c9?style=flat)
 ![Status](https://img.shields.io/badge/Status-Actively%20Updated-8b5cf6?style=flat)
@@ -20,6 +20,8 @@
     - [Tea, Toast, and Cake (Bridgerton Inspired) Themes](#tea-toast-and-cake-bridgerton-inspired-themes)
     - [Y2K Toybox Collection Themes](#y2k-toybox-collection-themes)
     - [Defend the Parks - National Parks Collection Themes](#defend-the-parks---national-parks-collection-themes)
+    - [Video Game Collection Themes](#video-game-collection-themes)
+    - [Requested Themes](#requested-themes)
   - [Follow my Work](#follow-my-work)
   - [Version Notes](#version-notes)
   - [Other Helpful Links](#other-helpful-links)
@@ -125,7 +127,7 @@ For a full detailed tutorial on how to download, install, use themes, and delete
 
 • myBarbie (Dolls V.) Theme: https://www.patreon.com/posts/151198334?collection=1908526
 
-• myBarbie (Movies V.) Theme: https://www.patreon.com/posts/151142426?collection=1908526
+• myBarbie (Movie V.) Theme: https://www.patreon.com/posts/151142426?collection=1908526
 
 • myBratz (Dolls V.) Theme: https://www.patreon.com/posts/151198479?collection=1908526
 
@@ -167,6 +169,26 @@ For a full detailed tutorial on how to download, install, use themes, and delete
 
 • myYosemite National Park Theme: https://www.patreon.com/posts/153074121?collection=1908526
 
+#### Video Game Collection Themes:
+
+• myStardewValley Theme: https://www.patreon.com/posts/153642570?collection=1908526
+
+#### Requested Themes:
+
+• myKingdomHearts Chain of Memories (Atlantis V.) Theme: https://www.patreon.com/posts/154656389?collection=1908526
+
+• mySailorMoon1 Theme: https://www.patreon.com/posts/155232772?collection=1908526
+
+• mySailorMoon2 Theme: https://www.patreon.com/posts/155232970?collection=1908526
+
+• mySailorMoon3 Theme: https://www.patreon.com/posts/155232989?collection=1908526
+
+• myStrawberryShortcake (2003 V.) Theme: https://www.patreon.com/posts/155232712?collection=1908526 
+
+• myStrawberryShortcake (80s V.) Theme: https://www.patreon.com/posts/155232461?collection=1908526
+
+• myTotallySpies Theme: https://www.patreon.com/posts/155233031?collection=1908526
+
 ... and many more themes of all kinds coming soon! 
 
 To make theme suggestions, either reach out on Patreon or Tiktok!
@@ -175,6 +197,8 @@ To make theme suggestions, either reach out on Patreon or Tiktok!
 ---
 
 ### Follow my Work:
+
+#### Linktree: https://linktr.ee/mp3li 
 
 #### Tiktok: https://www.tiktok.com/@mp3li.videos
 
@@ -223,44 +247,44 @@ All themes are currently v0.1
 ### Theme Images:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8f6d834f-e977-452d-a825-1dfe26426480" width="250" style="margin-right:12px;" alt="myACNH Day Theme Preview">
-  <img src="https://github.com/user-attachments/assets/68d6203e-4128-4eef-ae17-2cc8d2f172fb" width="250" style="margin-right:12px;" alt="myACNH Night Theme Preview">
-  <img src="https://github.com/user-attachments/assets/e629db1b-588e-448e-a95c-59e6e0232724" width="250" alt="myTwilightSaga Y1 Theme Preview">
+  <img src="myACNH Theme (Day V.) by mp3li/myACNH Theme Preview (Day V).jpeg" width="250" style="margin-right:12px;" alt="myACNH Day Theme Preview">
+  <img src="myACNH Theme (Night V.) by mp3li/myACNH (Night V) Theme Preview.jpeg" width="250" style="margin-right:12px;" alt="myACNH Night Theme Preview">
+  <img src="myTwilightSaga Theme by mp3li/myTwilightSaga Theme Preview.jpeg" width="250" alt="myTwilightSaga Theme Preview">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5ba5199d-8658-4f92-b737-86247369932e" width="250" style="margin-right:12px;" alt="myStudioGhibli Princess Mononoke Theme Preview">
-  <img src="https://github.com/user-attachments/assets/3e91ca82-86cc-4df6-9ba4-1566f0a9d8c9" width="250" style="margin-right:12px;" alt="myStudioGhibli Howls Moving Castle Theme Preview">
-  <img src="https://github.com/user-attachments/assets/a934de77-3c33-4a05-8a92-7e14d65d2f2a" width="250" alt="myStudioGhibli Spirited Away Theme Preview">
+  <img src="myStudioGhibli Theme (Princess Mononoke BG V.)/myStudioGhibli (Princess Mononoke BG V) Theme Preview.jpeg" width="250" style="margin-right:12px;" alt="myStudioGhibli Princess Mononoke Theme Preview">
+  <img src="myStudioGhibli Theme (Howls Moving Castle BG V.)/myStudioGhibli (Howls Moving Castle BG V) Preview.jpeg" width="250" style="margin-right:12px;" alt="myStudioGhibli Howl's Moving Castle Theme Preview">
+  <img src="myStudioGhibli Theme (Spirited Away BG V.)/myStudioGhibli (Spirited Away BG V) Theme Preview.jpeg" width="250" alt="myStudioGhibli Spirited Away Theme Preview">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/48b15a43-01df-40cd-b017-13230f6c676b" width="250" style="margin-right:12px;" alt="myStudioGhibli Kikis Delivery Service Theme Preview">
-  <img src="https://github.com/user-attachments/assets/b0163c64-afac-4fb6-beef-58e9fba4e7a0" width="250" style="margin-right:12px;" alt="myAggretsuko Pink Rage Theme Preview">
-  <img src="https://github.com/user-attachments/assets/258fee6d-86e2-48bc-a7cc-e4d0c2851fd1" width="250" alt="myAggretsuko Teal Rage Theme Preview">
+  <img src="myStudioGhibli Theme (Kikis Delivery Service BG V.)/myStudioGhibli (Kikis Delivery Service BG V) Theme Preview.jpeg" width="250" style="margin-right:12px;" alt="myStudioGhibli Kiki's Delivery Service Theme Preview">
+  <img src="myAggretsuko Theme (Pink Rage V.)/myAggretsuko (Pink Rage V) Preview.jpeg" width="250" style="margin-right:12px;" alt="myAggretsuko Pink Rage Theme Preview">
+  <img src="myAggretsuko Theme (Teal Rage V.)/myAggretsuko (Teal Rage V) Preview.jpeg" width="250" alt="myAggretsuko Teal Rage Theme Preview">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/125c8c43-3f93-422e-8ef6-92cfbe0bd443" width="250" style="margin-right:12px;" alt="myCinnamoroll Theme Preview">
-  <img src="https://github.com/user-attachments/assets/5c2f0cc0-8615-48ee-a1d9-5eef14d168be" width="250" style="margin-right:12px;" alt="myKeroppi Theme Preview">
-  <img src="https://github.com/user-attachments/assets/165cf546-91f0-45e4-a89c-d4b0f0efa012" width="250" alt="myGudetama Theme Preview">
+  <img src="myCinnamoroll Theme by mp3li/myCinnamoroll Theme Preview.jpeg" width="250" style="margin-right:12px;" alt="myCinnamoroll Theme Preview">
+  <img src="myKeroppi Theme by mp3li/myKeroppi Theme Preview.jpeg" width="250" style="margin-right:12px;" alt="myKeroppi Theme Preview">
+  <img src="myGudetama Theme by mp3li/myGudetama Theme Preview.jpeg" width="250" alt="myGudetama Theme Preview">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/22cecf67-fbc9-4c75-b4f6-0b28380b3db3" width="250" style="margin-right:12px;" alt="myPompompurin Y1 Theme Preview">
-  <img src="https://github.com/user-attachments/assets/851d3758-9095-4497-8732-dcf84254a05b" width="250" style="margin-right:12px;" alt="myHelloKittyandFriends Landscape Theme Preview">
-  <img src="https://github.com/user-attachments/assets/c75a1943-b60d-48ff-ad83-6a2614339772" width="250" alt="myTea Theme by mp3li Preview">
+  <img src="myPompompurin Theme by mp3li/pompompurinthemeimage1.jpeg" width="250" style="margin-right:12px;" alt="myPompompurin Theme Preview">
+  <img src="myHelloKittyandFriends Theme (Landscape V.) by mp3li/myHelloKittyandFriends (Landscape V) Theme Preview.jpeg" width="250" style="margin-right:12px;" alt="myHelloKittyandFriends Landscape Theme Preview">
+  <img src="myTea Theme by mp3li/myTea Theme by mp3li Preview.jpeg" width="250" alt="myTea Theme Preview">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6e5a6927-1d03-4fb4-87ef-b7bffcea2b20" width="250" style="margin-right:12px;" alt="myTea2 Theme by mp3li Preview">
-  <img src="https://github.com/user-attachments/assets/b83ba48d-7876-4798-a8f5-7320c5acfc86" width="250" style="margin-right:12px;" alt="myToast Theme by mp3li Preview">
-  <img src="https://github.com/user-attachments/assets/ff282d4b-9a17-4f60-9e9b-eeacfc2cabba" width="250" alt="myToast2 Theme by mp3li Preview">
+  <img src="myTea2 Theme by mp3li/myTea2 Theme by mp3li Preview.jpeg" width="250" style="margin-right:12px;" alt="myTea2 Theme Preview">
+  <img src="myToast Theme by mp3li/myToast Theme by mp3li Preview.jpeg" width="250" style="margin-right:12px;" alt="myToast Theme Preview">
+  <img src="myToast2 Theme by mp3li/myToast2 Theme by mp3li Preview.jpeg" width="250" alt="myToast2 Theme Preview">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8e3384d9-7a1d-4ad7-8f51-6b8802b671b0" width="250" style="margin-right:12px;" alt="myCake Theme by mp3li Preview">
-  <img src="https://github.com/user-attachments/assets/35ecce22-bc3a-4ea1-80c3-9f4d46b9ee53" width="250" style="margin-right:12px;" alt="myCake2 Theme by mp3li Preview">
+  <img src="myCake Theme by mp3li/myCake Theme by mp3li Preview.jpeg" width="250" style="margin-right:12px;" alt="myCake Theme Preview">
+  <img src="myCake2 Theme by mp3li/myCake2 Theme by mp3li Preview.jpeg" width="250" style="margin-right:12px;" alt="myCake2 Theme Preview">
   <img src="myBarbie (Dolls V.) Theme by mp3li/barbiedollspreview.jpeg" width="250" alt="myBarbie Dolls Theme Preview">
 </p>
 
@@ -284,26 +308,42 @@ All themes are currently v0.1
 
 <p align="center">
   <img src="myTamagotchi (Handheld V.) Theme by mp3li/tamahandheldpreview.jpeg" width="250" style="margin-right:12px;" alt="myTamagotchi Handheld Theme Preview">
-  <img src="Defend The Parks National Parks Collection Y1 Themes Preview by mp3li.jpeg" width="250" style="margin-right:12px;" alt="Defend The Parks National Parks Collection Y1 Themes Preview by mp3li">
-  <img src="myDeathValley National Park Theme by mp3li/myDeathValley National Park Theme by mp3li Preview.jpeg" width="250" alt="myDeathValley National Park Theme Preview">
+  <img src="myDeathValley National Park Theme by mp3li/myDeathValley National Park Theme by mp3li Preview.jpeg" width="250" style="margin-right:12px;" alt="myDeathValley National Park Theme Preview">
+  <img src="myEverglades National Park Theme by mp3li/myEverglades National Park Theme by mp3li Preview.jpeg" width="250" alt="myEverglades National Park Theme Preview">
 </p>
 
 <p align="center">
-  <img src="myEverglades National Park Theme by mp3li/myEverglades National Park Theme by mp3li Preview.jpeg" width="250" style="margin-right:12px;" alt="myEverglades National Park Theme Preview">
   <img src="myGlacier National Park Theme by mp3li/myGlacier National Park Theme by mp3li Preview.jpeg" width="250" style="margin-right:12px;" alt="myGlacier National Park Theme Preview">
-  <img src="myGrandCanyon National Park Theme by mp3li/myGrandCanyon National Park Theme by mp3li Preview.jpeg" width="250" alt="myGrandCanyon National Park Theme Preview">
+  <img src="myGrandCanyon National Park Theme by mp3li/myGrandCanyon National Park Theme by mp3li Preview.jpeg" width="250" style="margin-right:12px;" alt="myGrandCanyon National Park Theme Preview">
+  <img src="myJoshuaTree National Park Theme by mp3li/myJoshuaTree National Park Theme by mp3li Preview.jpeg" width="250" alt="myJoshuaTree National Park Theme Preview">
 </p>
 
 <p align="center">
-  <img src="myJoshuaTree National Park Theme by mp3li/myJoshuaTree National Park Theme by mp3li Preview.jpeg" width="250" style="margin-right:12px;" alt="myJoshuaTree National Park Theme Preview">
   <img src="myMountRainier National Park Theme by mp3li/myMountRainier National Park Theme by mp3li Preview.jpeg" width="250" style="margin-right:12px;" alt="myMountRainier National Park Theme Preview">
-  <img src="myOlympic National Park Theme by mp3li/myOlympic National Park Theme by mp3li Preview.jpeg" width="250" alt="myOlympic National Park Theme Preview">
+  <img src="myOlympic National Park Theme by mp3li/myOlympic National Park Theme by mp3li Preview.jpeg" width="250" style="margin-right:12px;" alt="myOlympic National Park Theme Preview">
+  <img src="myRockyMountains National Park Theme by mp3li/myRockyMountain National Park Theme by mp3li Preview.jpeg" width="250" alt="myRockyMountains National Park Theme Preview">
 </p>
 
 <p align="center">
-  <img src="myRockyMountains National Park Theme by mp3li/myRockyMountain National Park Theme by mp3li Preview.jpeg" width="250" style="margin-right:12px;" alt="myRockyMountains National Park Theme Preview">
   <img src="myYellowstone National Park Theme by mp3li/myYellowstone National Park Theme by mp3li Preview.jpeg" width="250" style="margin-right:12px;" alt="myYellowstone National Park Theme Preview">
-  <img src="myYosemite National Park Theme by mp3li/myYosemite National Park Theme by mp3li Preview.jpeg" width="250" alt="myYosemite National Park Theme Preview">
+  <img src="myYosemite National Park Theme by mp3li/myYosemite National Park Theme by mp3li Preview.jpeg" width="250" style="margin-right:12px;" alt="myYosemite National Park Theme Preview">
+  <img src="myStardewValley Theme by mp3li/myStardewValley Theme by mp3li Preview.jpeg" width="250" alt="myStardewValley Theme Preview">
+</p>
+
+<p align="center">
+  <img src="myKingdomHearts Chain of Memories (Atlantis V.) Theme by mp3li/myKingdomHearts Chain of Memories (Atlantis V.) Theme by mp3li Preview.jpeg" width="250" style="margin-right:12px;" alt="myKingdomHearts Chain of Memories (Atlantis V.) Theme Preview">
+  <img src="mySailorMoon1 Theme by mp3li/mySailorMoon1 Theme by mp3li Preview.jpeg" width="250" style="margin-right:12px;" alt="mySailorMoon1 Theme Preview">
+  <img src="mySailorMoon2 Theme by mp3li/mySailorMoon2 Theme by mp3li Preview.jpeg" width="250" alt="mySailorMoon2 Theme Preview">
+</p>
+
+<p align="center">
+  <img src="mySailorMoon3 Theme by mp3li/mySailorMoon3 Theme by mp3li Preview.jpeg" width="250" style="margin-right:12px;" alt="mySailorMoon3 Theme Preview">
+  <img src="myStrawberryShortcake (2003 V.) Theme by mp3li/myStrawberryShortcake (2003 V.) Theme by mp3li Preview.jpeg" width="250" style="margin-right:12px;" alt="myStrawberryShortcake (2003 V.) Theme Preview">
+  <img src="myStrawberryShortcake (80s V.) Theme by mp3li/myStrawberryShortcake (80s V.) Theme by mp3li Preview.jpeg" width="250" alt="myStrawberryShortcake (80s V.) Theme Preview">
+</p>
+
+<p align="center">
+  <img src="myTotallySpies Theme by mp3li/myTotallySpies Theme by mp3li Preview.jpeg" width="250" alt="myTotallySpies Theme Preview">
 </p>
 
 
@@ -311,57 +351,42 @@ All themes are currently v0.1
 
 ### LICENSE & USAGE
 
-Below is a copy of the full license file included in this repo, and additionally included in every mp3li theme folder.
-
-The Defend the Parks - National Parks Collection themes use a separate license file. Those themes are based on mp3li's original creative work, including hand-drawn elements and other assets used under licenses that allow free personal and commercial use. Please refer to the license file included in each National Parks theme folder for the exact terms that apply to that collection.
-
----
-
-
-
-
 This license applies to all theme packages created and distributed by mp3li for the Innioasis Y1 MP3 Player, unless otherwise stated.
 
 Copyright (c) 2026 mp3li
 
-#### PERMISSIONS
+#### Permissions
 
 Personal Use
 You are permitted to download, install, and use this theme for personal, non-commercial use on compatible devices.
 
 Modification and Derivative Works
 You may modify this theme or use it as a base for your own theme, provided that credit to “mp3li” is clearly included in BOTH:
+The theme’s config file description field, and
+Any online page, post, or listing where the modified theme is shared, described, or made available for download, including social media and hosting platforms.
 
-- The theme’s config file description field
-- Any online page, post, or listing where the modified theme is shared, described, or made available for download, including social media and hosting platforms
-
-#### DISTRIBUTION RESTRICTIONS
+#### Distribution Restrictions
 
 Authorized Hosting
-This theme may only be hosted, distributed, or published by mp3li, and only on mp3li’s official platforms, including official mp3li GitHub repositories and official mp3li Patreon pages. As of this time, there is only one mp3li Patreon. 
+This theme may only be hosted, distributed, or published by mp3li, and only on mp3li’s official platforms, including official GitHub repositories and official Patreon pages.
 
 Prohibited Redistribution
 This theme may not be re-hosted, mirrored, bundled, archived, packaged, sold, sub-licensed, or monetized by any third party.
 
-#### INTELLECTUAL PROPERTY NOTICE
+#### Intellectual Property Notice
 
 This theme is a creative work assembled and published by mp3li.
 
 mp3li does not claim ownership of any third-party, branded, licensed, or freely available source images, icons, names, or visual elements that may appear within this theme and remain the property of their respective rights holders, where applicable.
 
-mp3li retains ownership of all original creative contributions embodied in this theme, including the theme’s structure, layout, configuration, visual composition, curated selection of assets, and any custom assembled images or modified visual works created for this theme. Battery icons are the original custom work of mp3li. (myTwilightSaga and ACNH do not have mp3li battery icons, and will be updated soon to contain mp3li battery icons.) 
+mp3li retains ownership of all original creative contributions embodied in this theme, including the theme’s structure, layout, configuration, visual composition, curated selection of assets, and any custom assembled images or modified visual works created for this theme.
 
 Use, reuse, extraction, or incorporation of any backgrounds, icons, layout elements, configuration files, or other visual or structural components taken from this theme, in whole or in part, constitutes use of this theme package and is subject to the permissions, attribution requirements, and distribution restrictions of this license.
 
-
----
-#### NO WARRANTY
+#### No Warranty
 
 This theme is provided “AS IS”, without warranty of any kind, express or implied, including but not limited to merchantability, fitness for a particular purpose, and non-infringement. The creator shall not be liable for any claims, damages, or other liability arising from the use of this theme.
 
----
-#### CONTACT
+#### Contact
 
 For permissions beyond the scope of this license, please contact mp3li through official platforms.
-
----
