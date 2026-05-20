@@ -1,5 +1,5 @@
-![Total Themes](https://img.shields.io/badge/Total%20Themes-49-8b5cf6?style=flat)
-![Latest Theme](https://img.shields.io/badge/Latest%20Theme-mySailorMoon3-f5a6c9?style=flat)
+![Total Themes](https://img.shields.io/badge/Total%20Themes-56-8b5cf6?style=flat)
+![Latest Theme](https://img.shields.io/badge/Latest%20Theme-Digital%20Plantscape-f5a6c9?style=flat)
 ![Platform](https://img.shields.io/badge/Platform-Innioasis%20Y1-8b5cf6?style=flat)
 ![License](https://img.shields.io/badge/License-mp3li%20Theme%20License-f5a6c9?style=flat)
 ![Status](https://img.shields.io/badge/Status-Actively%20Updated-8b5cf6?style=flat)
@@ -22,6 +22,8 @@
     - [Defend the Parks - National Parks Collection Themes](#defend-the-parks---national-parks-collection-themes)
     - [Video Game Collection Themes](#video-game-collection-themes)
     - [Requested Themes](#requested-themes)
+    - [Miffy and Friends Themes](#miffy-and-friends-themes)
+    - [Digital Minimal Collection](#digital-minimal-collection)
   - [Follow my Work](#follow-my-work)
   - [Version Notes](#version-notes)
   - [Other Helpful Links](#other-helpful-links)
@@ -189,6 +191,24 @@ For a full detailed tutorial on how to download, install, use themes, and delete
 
 • myTotallySpies Theme: https://www.patreon.com/posts/155233031?collection=1908526
 
+#### Miffy and Friends Themes:
+
+• myMiffy Theme: https://www.patreon.com/posts/155493700?collection=1908526
+
+#### Digital Minimal Collection:
+
+• Digital City Theme: https://www.patreon.com/posts/157498632?collection=1908526
+
+• Digital Gothic Architecture Theme: https://www.patreon.com/posts/157498939?collection=1908526
+
+• Digital CD Shine Theme: https://www.patreon.com/posts/157498906?collection=1908526
+
+• Digital Liquid Metal Theme: https://www.patreon.com/posts/157498879?collection=1908526
+
+• Digital Vinyl Store Theme: https://www.patreon.com/posts/157498829?collection=1908526
+
+• Digital Plantscape Theme: https://www.patreon.com/posts/157494001?collection=1908526
+
 ... and many more themes of all kinds coming soon! 
 
 To make theme suggestions, either reach out on Patreon or Tiktok!
@@ -217,7 +237,7 @@ This is where I post:
 
 ### Version Notes:
 
-All themes are currently v0.1
+All themes are currently v0.1. In the newest Innioasis Y1 firmware 3.0.7, there is a new ebook main menu feature. All themes are currently being updated to support the ebook feature and add a new icon. Original individual theme download posts on Patreon will be updated with the new v0.2 themes, along with a main directory post on Patreon listing which themes are updated yet, which will be added as a link here as soon as themes have been updated.
 
 
 ---
@@ -343,7 +363,20 @@ All themes are currently v0.1
 </p>
 
 <p align="center">
-  <img src="myTotallySpies Theme by mp3li/myTotallySpies Theme by mp3li Preview.jpeg" width="250" alt="myTotallySpies Theme Preview">
+  <img src="myTotallySpies Theme by mp3li/myTotallySpies Theme by mp3li Preview.jpeg" width="250" style="margin-right:12px;" alt="myTotallySpies Theme Preview">
+  <img src="myMiffy Theme by mp3li/myMiffy Theme by mp3li Preview.jpeg" width="250" style="margin-right:12px;" alt="myMiffy Theme Preview">
+  <img src="Digital City Theme by mp3li/Digital City Theme by mp3li Preview.jpeg" width="250" alt="Digital City Theme Preview">
+</p>
+
+<p align="center">
+  <img src="Digital Gothic Architecture Theme by mp3li/Digital Gothic Architecture Theme by mp3li Preview.jpeg" width="250" style="margin-right:12px;" alt="Digital Gothic Architecture Theme Preview">
+  <img src="Digital CD Shine Theme by mp3li/Digital CD Shine Theme by mp3li Preview.jpeg" width="250" style="margin-right:12px;" alt="Digital CD Shine Theme Preview">
+  <img src="Digital Liquid Metal Theme by mp3li/Digital Liquid Metal Theme by mp3li Preview.jpeg" width="250" alt="Digital Liquid Metal Theme Preview">
+</p>
+
+<p align="center">
+  <img src="Digital Vinyl Store Theme by mp3li/Digital Vinyl Store Theme by mp3li Preview.jpeg" width="250" style="margin-right:12px;" alt="Digital Vinyl Store Theme Preview">
+  <img src="Digital Plantscape Theme by mp3li/Digital Plantscape Theme by mp3li Preview.jpeg" width="250" alt="Digital Plantscape Theme Preview">
 </p>
 
 
