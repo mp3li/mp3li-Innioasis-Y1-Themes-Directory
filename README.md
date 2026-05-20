@@ -50,6 +50,8 @@
 
 This repository tracks the development and version history of all mp3li Innioasis Y1 themes.
 
+All themes in this directory are for the Y1's stock-OS. 
+
 This repo is documentation-only. 
 
 The full theme files, previews, and downloads are distributed through official channels listed below.
