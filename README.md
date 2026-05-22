@@ -3,6 +3,8 @@
 ![Platform](https://img.shields.io/badge/Platform-Innioasis%20Y1-8b5cf6?style=flat)
 ![License](https://img.shields.io/badge/License-mp3li%20Theme%20License-f5a6c9?style=flat)
 ![Status](https://img.shields.io/badge/Status-Actively%20Updated-8b5cf6?style=flat)
+![Version](https://img.shields.io/badge/Version-v0.2%20eBook%20Icon-8b5cf6?style=flat)
+
 
 
 <details>
@@ -239,7 +241,7 @@ This is where I post:
 
 ### Version Notes:
 
-All themes are currently v0.1. In the newest Innioasis Y1 firmware 3.0.7, there is a new ebook main menu feature. All themes are currently being updated to support the ebook feature and add a new icon. Original individual theme download posts on Patreon will be updated with the new v0.2 themes, along with a main directory post on Patreon listing which themes are updated yet, which will be added as a link here as soon as themes have been updated.
+All themes are currently v0.2. In the newest Innioasis Y1 firmware 3.0.7, there is a new ebook main menu feature. All themes are currently updated to support the ebook feature and add the new icon for eBooks on the main menu. Original individual theme download posts on Patreon have been updated with the new v0.2 themes. If you don't have that exact firmware that's totally okay, _this theme can be used for any Y1 firmware that is theme-able._
 
 
 ---
